@@ -124,5 +124,5 @@ The complete technical report, including screenshots, configurations, alerts, an
 
 ---
 
-“Defense is not a single decision, but a continuous practice of attention and restraint.”
-— Oluwamuyiwa Aikomo
+> *“Defense is not a single decision, but a continuous practice of attention and restraint.”*  
+> — Oluwamuyiwa Aikomo
