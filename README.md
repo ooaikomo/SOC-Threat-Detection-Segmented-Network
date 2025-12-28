@@ -68,7 +68,7 @@ These activities generated realistic indicators suitable for SOC detection and i
   - Port scanning
   - Repeated SSH authentication failures
   - Suspicious access attempts
-- **Log correlation** identified the attacker source IP
+- **Log correlation** identified the attacker source IP, rules group and MITRE technique
 - **Active Response** automatically blocked malicious IPs via firewall actions
 - pfSense rules were hardened, and unnecessary services (e.g., SNMP) were disabled
 
