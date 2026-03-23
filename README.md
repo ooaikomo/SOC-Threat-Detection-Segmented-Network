@@ -1,18 +1,18 @@
 ## 📌 Overview
-This repository documents a hands-on **Security Operations Centre (SOC) simulation** designed around a **segmented healthcare network** handling sensitive patient data.  
-The lab demonstrates how network misconfigurations, insufficient monitoring, and weak segmentation can expose critical systems — and how centralized visibility, detection, and response can significantly improve security posture.
+This repository documents a hands-on **Security Operations Centre (SOC) simulation** based on a **segmented healthcare network** that handles sensitive patient data.  
+The lab demonstrates how network misconfigurations, insufficient monitoring, and weak segmentation can expose critical systems and how centralised visibility, detection, and response can significantly improve security posture.
 
 The project mirrors real-world SOC workflows by combining **network design, attack simulation, SIEM monitoring, traffic analysis, and active response** in a controlled environment.
 
 ---
 
 ## 🧠 Lab Concept
-Healthcare organizations are prime targets for cyberattacks due to the value of Electronic Health Records (EHRs) and the stringent regulatory requirements.  
+Healthcare organisations are prime targets for cyberattacks due to the value of Electronic Health Records (EHRs) and the stringent regulatory requirements.  
 This lab simulates a healthcare technology environment with:
 
 - A **DMZ-hosted Ubuntu EHR server**
 - Internal SOC and analyst systems
-- Centralized security enforcement and monitoring
+- Centralised security enforcement and monitoring
 
 Common attacker techniques, such as **network reconnaissance** and **SSH brute-force attempts**, are simulated to evaluate the effectiveness of detection, correlation, and response across segmented network zones.
 
@@ -77,7 +77,7 @@ These activities generated realistic indicators suitable for SOC detection and i
 ## 📊 Key Findings
 - Network segmentation alone is ineffective without **strict firewall enforcement**
 - Overly permissive rules increase the risk of **lateral movement**
-- Centralized logging and correlation greatly improve visibility
+- Centralised logging and correlation greatly improve visibility
 - Attack activity is often **noisy and detectable** when monitoring is correctly configured
 - Automated response significantly reduces exposure time
 
@@ -111,7 +111,7 @@ These activities generated realistic indicators suitable for SOC detection and i
 ---
 
 ## 🧾 Conclusion
-This project demonstrates how a well-integrated SOC environment can detect, analyze, and respond to common attack techniques in a healthcare context.  
+This project demonstrates how a well-integrated SOC environment can detect, analyse, and respond to common attack techniques in a healthcare context.  
 By combining segmentation, SIEM monitoring, traffic analysis, and automated response, the lab reflects real-world blue-team operations and highlights the importance of continuous security validation.
 
 ---
@@ -124,5 +124,5 @@ The complete technical report, including screenshots, configurations, alerts, an
 
 ---
 
-> *“Defense is not a single decision, but a continuous practice of attention and restraint.”*  
+> *“Defence is not a single decision, but a continuous practice of attention and restraint.”*  
 > — Oluwamuyiwa Aikomo
